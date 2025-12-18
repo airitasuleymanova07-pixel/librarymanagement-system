@@ -1,0 +1,11 @@
+echo "# Java
+*.class
+*.log
+target/
+bin/
+build/
+# IDE
+.vscode/
+.idea/
+# Системные
+.DS_Store" > .gitignore
